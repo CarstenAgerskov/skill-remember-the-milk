@@ -1,0 +1,2 @@
+zoek (?P<taskName>.+) in (mijn )?(?P<listName>.+) lijst$
+Voltooi (?P<taskName>.+) in lijst (?P<listName>.+) list$

@@ -1,0 +1,2 @@
+voeg (?P<taskName>.+) toe aan (mijn )?(?P<listName>.+) lijst$
+voeg (?P<taskName>.+) toe aan lijst (?P<listName>.+)$

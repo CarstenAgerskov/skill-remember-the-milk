@@ -1,0 +1,2 @@
+lee (mi|la) lista?(?P<listName>.+)$
+leeme la lista (?P<listName>.+)$
