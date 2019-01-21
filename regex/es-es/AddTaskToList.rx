@@ -1,0 +1,2 @@
+añade (?P<taskName>.+) a (mi|la) lista?(?P<listName>.+)$
+añade (?P<taskName>.+) a la lista (?P<listName>.+)$

@@ -1,0 +1,1 @@
+wat staat er voor (?P<dueDate>(nu|gisteren|vandaag|morgen|maandag|dinsdag|woensdag|donderdag|vrijdag|zaterdag|zondag))$
