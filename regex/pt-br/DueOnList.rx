@@ -1,0 +1,1 @@
+O que está na (minha )?(?P<listName>.+) lista (?P<dueDate>(agora|ontem|hoje|amanhã|segunda-feira|terça-feira|quarta-feira|quinta-feira|sexta-feira|sábado|domingo))$
