@@ -1,0 +1,2 @@
+leia (minha )?(?P<listName>.+) lista$
+leia a lista (?P<listName>.+)$

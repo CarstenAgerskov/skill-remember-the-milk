@@ -1,0 +1,2 @@
+aggiungi (?P<taskName>.+) a (?P<listName>.+)$
+aggiungi (?P<taskName>.+) alla lista (?P<listName>.+)$
