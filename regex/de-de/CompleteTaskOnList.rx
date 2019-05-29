@@ -1,0 +1,2 @@
+Vervollständige (?P<taskName>.+) auf (meiner )?(?P<listName>.+) Liste$
+Vervollständige (?P<taskName>.+) auf Liste (?P<listName>.+)$

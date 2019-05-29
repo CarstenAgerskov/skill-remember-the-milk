@@ -1,0 +1,2 @@
+completa (?P<taskName>.+) sulla (mia )lista ?(?P<listName>.+) list$
+completa (?P<taskName>.+) nella lista (?P<listName>.+)$

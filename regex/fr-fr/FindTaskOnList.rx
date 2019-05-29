@@ -1,0 +1,2 @@
+cherche (?P<taskName>.+) sur la liste (my )?(?P<listName>.+) list$
+cherche (?P<taskName>.+) sur la liste (?P<listName>.+)$
