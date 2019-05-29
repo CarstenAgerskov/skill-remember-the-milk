@@ -1,0 +1,2 @@
+procurar (?P<taskName>.+) na (minha )?(?P<listName>.+) lista$
+procurar (?P<taskName>.+) na lista (?P<listName>.+)$

@@ -1,0 +1,2 @@
+trova (?P<taskName>.+) nella (mia )?(?P<listName>.+) list$
+trova (?P<taskName>.+) nella lista (?P<listName>.+)$

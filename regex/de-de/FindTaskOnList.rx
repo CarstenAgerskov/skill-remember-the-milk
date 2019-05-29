@@ -1,0 +1,2 @@
+Finde (?P<taskName>.+) auf (meiner )?(?P<listName>.+) Liste$
+Finde (?P<taskName>.+) auf der Liste (?P<listName>.+)$

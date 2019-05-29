@@ -1,0 +1,2 @@
+leggi (la mia ) lista ?(?P<listName>.+)$
+leggi lista (?P<listName>.+)$

@@ -1,0 +1,2 @@
+compléter (?P<taskName>.+) sur la liste (my )?(?P<listName>.+)
+compléter (?P<taskName>.+) sur la liste (?P<listName>.+)$
