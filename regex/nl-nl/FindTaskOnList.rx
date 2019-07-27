@@ -1,0 +1,2 @@
+zoek (?P<taskName>.+) in (mijn )?(?P<listName>.+) list$
+zoek (?P<taskName>.+) in lijst (?P<listName>.+) list$

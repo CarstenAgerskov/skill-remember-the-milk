@@ -1,0 +1,2 @@
+добавь (?P<taskName>.+) к (моему )?(?P<listName>.+) списку$
+добавь (?P<taskName>.+) к списку (?P<listName>.+)$

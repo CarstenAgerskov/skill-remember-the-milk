@@ -1,0 +1,1 @@
+qué hay para (?P<dueDate>(ahora|ayer|mañana|el lunes|el martes|el miércoles|el jueves|el viernes|el sábado|el domingo))$
