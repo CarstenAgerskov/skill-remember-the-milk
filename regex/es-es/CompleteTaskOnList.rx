@@ -1,0 +1,2 @@
+marca como completada (?P<taskName>.+) de (mi|la) lista ?(?P<listName>.+)$
+marca completada (?P<taskName>.+) en la lista (?P<listName>.+)$

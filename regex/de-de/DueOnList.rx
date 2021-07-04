@@ -1,0 +1,1 @@
+Was ist auf (meiner )?(?P<listName>.+) Liste (?P<dueDate>(Jetzt|Gestern|Heute|Morgen|Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag))$

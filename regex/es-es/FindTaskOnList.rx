@@ -1,0 +1,2 @@
+busca (?P<taskName>.+) en (mi|la)lista? (?P<listName>.+)$
+busca (?P<taskName>.+) en lista (?P<listName>.+)$
